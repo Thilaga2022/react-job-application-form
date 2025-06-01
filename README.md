@@ -47,7 +47,7 @@ react-job-application-form/
 └── package-lock.json
 
 ## How to run the project
-git clone : https://github.com/yourusername/react-job-application-form.git
+git clone : https://github.com/Thilaga2022/react-job-application-form.git
 cd react-job-application-form
 
 ## Install dependencies and test
